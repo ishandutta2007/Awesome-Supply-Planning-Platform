@@ -1,6 +1,6 @@
 # Awesome-Supply-Planning-Platform
 
-# Top Supply Planning Platform Tools Ecosystem
+## Top Supply Planning Platform Tools Ecosystem
 
 **Curated List of SaaS/Commercial Products & Open-Source GitHub Projects**  
 *Focused on Advanced Planning & Scheduling (APS), Demand & Supply Planning, S&OP/IBP, Inventory Optimization & Production Scheduling*  
