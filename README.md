@@ -31,16 +31,16 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 | Product | Description | Pricing | Free Tier Limit | Estimated Size / Valuation |
 |---------|-------------|---------|-----------------|----------------------------|
-| **[Blue Yonder Supply Planning](https://blueyonder.com/)** | Enterprise supply chain planning suite covering demand, supply, inventory, and related execution capabilities. | Custom/Enterprise | N/A | ~$10B |
-| **[Anaplan](https://www.anaplan.com/)** | Flexible connected-planning platform widely used for S&OP, financial planning, and supply chain scenario modeling. | Custom/Enterprise | N/A | ~$10B |
-| **[Kinaxis RapidResponse](https://www.kinaxis.com/)** | Concurrent planning platform known for fast what-if scenario analysis across demand, supply, inventory, and capacity. | Custom/Enterprise | N/A | ~$5B |
-| **[Logility](https://www.logility.com/)** | Advanced planning, finite scheduling, demand planning, and integrated supply chain decision support. | Custom/Enterprise | N/A | ~$1B |
-| **[RELEX Solutions](https://www.relexsolutions.com/)** | Retail- and CPG-focused supply chain planning platform strong in demand forecasting and fresh/perishable management. | Custom/Enterprise | N/A | ~$1B |
-| **[ToolsGroup](https://www.toolsgroup.com/)** | Specialized demand and inventory planning solutions emphasizing probabilistic forecasting and multi-echelon optimization. | Custom/Enterprise | N/A | ~$500M |
-| **[Arkieva](https://arkieva.com/)** | Advanced planning, finite scheduling, demand planning, and integrated supply chain decision support. | Custom/Enterprise | N/A | ~$50M |
-| **[John Galt Solutions](https://johngalt.com/)** | Advanced planning, finite scheduling, demand planning, and integrated supply chain decision support. | Custom/Enterprise | N/A | ~$50M |
-| **[OMP Unison Planning](https://omp.com/)** | Advanced planning, finite scheduling, demand planning, and integrated supply chain decision support. | Custom/Enterprise | N/A | ~$50M |
-| **[PlanetTogether](https://www.planettogether.com/)** | Advanced planning, finite scheduling, demand planning, and integrated supply chain decision support. | Custom/Enterprise | N/A | ~$20M |
+| **[Blue Yonder Supply Planning](https://blueyonder.com/)** | Enterprise supply chain planning suite covering demand, supply, inventory, and related execution capabilities. | Starts ~$100k+/yr (Custom) | N/A | ~$10B |
+| **[Anaplan](https://www.anaplan.com/)** | Flexible connected-planning platform widely used for S&OP, financial planning, and supply chain scenario modeling. | Starts ~$30k-$50k/yr (Custom) | N/A | ~$10B |
+| **[Kinaxis RapidResponse](https://www.kinaxis.com/)** | Concurrent planning platform known for fast what-if scenario analysis across demand, supply, inventory, and capacity. | Starts ~$100k+/yr (Custom) | N/A | ~$5B |
+| **[Logility](https://www.logility.com/)** | Advanced planning, finite scheduling, demand planning, and integrated supply chain decision support. | Starts ~$50k+/yr (Custom) | N/A | ~$1B |
+| **[RELEX Solutions](https://www.relexsolutions.com/)** | Retail- and CPG-focused supply chain planning platform strong in demand forecasting and fresh/perishable management. | Starts ~$50k+/yr (Custom) | N/A | ~$1B |
+| **[ToolsGroup](https://www.toolsgroup.com/)** | Specialized demand and inventory planning solutions emphasizing probabilistic forecasting and multi-echelon optimization. | Starts ~$30k+/yr (Custom) | N/A | ~$500M |
+| **[Arkieva](https://arkieva.com/)** | Advanced planning, finite scheduling, demand planning, and integrated supply chain decision support. | Starts ~$30k+/yr (Custom) | N/A | ~$50M |
+| **[John Galt Solutions](https://johngalt.com/)** | Advanced planning, finite scheduling, demand planning, and integrated supply chain decision support. | Starts ~$30k+/yr (Custom) | N/A | ~$50M |
+| **[OMP Unison Planning](https://omp.com/)** | Advanced planning, finite scheduling, demand planning, and integrated supply chain decision support. | Starts ~$50k+/yr (Custom) | N/A | ~$50M |
+| **[PlanetTogether](https://www.planettogether.com/)** | Advanced planning, finite scheduling, demand planning, and integrated supply chain decision support. | Starts ~$25k+/yr (Custom) | N/A | ~$20M |
 
 ## 🔓 Open-Source GitHub Projects
 
